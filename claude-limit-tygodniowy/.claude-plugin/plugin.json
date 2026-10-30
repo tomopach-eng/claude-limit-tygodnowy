@@ -1,6 +1,1 @@
-{
-  "name": "tomopach-eng-mody",
-  "owner": { "name": "Tomek Opach" },
-  "plugins": [{ "name": "limit-tygodniowy", "source": "./" }]
-}
-
+{ "name": "limit-tygodniowy", "version": "0.1.0", "author": { "name": "Tomek Opach" }, "description": "Powiadomienie o pozostalym limicie tygodniowym Claude na 48 h przed resetem; komenda /limit" }
